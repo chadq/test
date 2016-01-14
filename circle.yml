@@ -1,0 +1,13 @@
+general:
+  artifacts:
+    - build/test.tar.gz
+
+
+deployment:
+  test:
+    owner: chadq 
+    branch: master
+    commands:
+      - pip install -r fabfile/requirements.txt
+      - fab test 
+

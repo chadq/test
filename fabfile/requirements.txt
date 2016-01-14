@@ -1,0 +1,5 @@
+hipchat
+fabric
+python-simple-hipchat
+sendgrid
+circleclient

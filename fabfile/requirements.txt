@@ -1,5 +1,4 @@
 fabric
 python-simple-hipchat
-hipchat
 sendgrid
 circleclient
